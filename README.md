@@ -4,7 +4,7 @@ Jump Around through assigned Scripts Lists
 
 
 ## Installation:
-- Download and unzip the plugin at `res://`, in the end your project should have this path: `res://addons/ScriptJumper`.
+- Download and unzip the plugin at `res://addons/`, in the end your project should have this path: `res://addons/ScriptJumper`.
 - Make sure to enable the plugin at `Project -> Project Settings -> Plugins`
 
 
